@@ -163,3 +163,9 @@ cython_debug/
 
 model_*
 results*
+
+destilbert/Destilbert-*
+destilbert/distilbert-*
+destilbert/*.parquet
+
+*.csv
